@@ -5,13 +5,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/vyomdabom/Vulnerability-management)
+- [Vulnerability Management Program Implementation](https://github.com/vyomdabom/Vulnerability-management)
+- [Cloud SIEM Threat Detection Lab](https://github.com/vyomdabom/cloud-siem-threat-detection)
 
 ## 🤳 Connect With Me
 Email: Vyomp987@gmail.com
-
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
